@@ -9,7 +9,7 @@ Big Data Enthusiast and Developer Doc Writer
 <a href="https://www.linkedin.com/in/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  
 <a href="https://www.behance.com/piyushjoshi7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dev.to/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/pyjs-tmdc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/socialnetwork.piyush" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
-Aspiring Data Scientist and Technical Content Developer with hands on experience in Machine Learning and Data Analysis. Eager to learn and solve new challenging problems in Data Science. NTSE and KVPY Scholar, Indian National Mathematics Olymipad (INMO) qualified . 
+Big Data Enthusiast and Technical Content Developer with hands on experience in Machine Learning and Data Analysis. Eager to learn and solve new challenging problems in Data Science. NTSE and KVPY Scholar, Indian National Mathematics Olymipad (INMO) qualified . 
 - Experience in Functional, Procedural and Object-Oriented Programming styles of Python. 
 - In depth understanding of Python, R and its various libraries for data processing and data modelling.
 - Interned at data science roles in various domains like Healthcare, e-Commerce, Edtech 
@@ -21,7 +21,7 @@ Aspiring Data Scientist and Technical Content Developer with hands on experience
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Libraries | Frameworks | Languages that I know
-- Languages: Python, R, JavaScript, Bashscript, Bloblang
+- Languages: Python, R, JavaScript, Bashscript, Bloblang, YAML
 - SQL DataBases: PostgreSQL, Trino, SparkSQL
 - NoSQL DataBases: MongoDB
 - Web: ReactJS, Streamlit
@@ -64,7 +64,7 @@ Aspiring Data Scientist and Technical Content Developer with hands on experience
 
 <a href="http://www.github.com/pyjs-tmdc"><img src="https://activity-graph.herokuapp.com/graph?username=pyjs-tmdc&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/pyjs-tmdc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techpiyushjoshi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/pyjs-tmdc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyjs-tmdc&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
